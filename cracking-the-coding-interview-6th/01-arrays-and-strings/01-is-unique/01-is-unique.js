@@ -21,5 +21,5 @@ let isUnique =  (inputStr) => {
 };
 
 // Run it !
-console.log(isUnique("hello")); // true
-console.log(isUnique("world")); // false
+console.log(isUnique("hello")); // false
+console.log(isUnique("world")); // true
