@@ -1,8 +1,9 @@
 /**
  * 401. Binary Watch:  https://leetcode.com/problems/binary-watch/
+ * Difficulty: Easy
  * Author: Harold Gonzalez
  * Twitter: @haroldcng
- * Questions -> harold.gonzalez.tech@gmail.com
+ * Questions: harold.gonzalez.tech@gmail.com
  */
 
 'use strict';
@@ -35,4 +36,4 @@ let countOnes = (num) => {
 };
 
 // Run it!
-console.log(readBinaryWatch(1));
+console.log(readBinaryWatch(2));
